@@ -8,7 +8,5 @@ Maria Santiago Corral
 Daniel Ávila Fernández
 Álvaro López-Gil Navajas
 David Sánchez Alcantarilla
-Adios
-
-hola
+Adioses
 
