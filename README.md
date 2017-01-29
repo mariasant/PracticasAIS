@@ -1,4 +1,4 @@
-# PracticasAIS
+﻿# PracticasAIS
 
 Repositorio de las prácticas de la asignatura de Ampliación de Ingeniería de Software
 
@@ -6,3 +6,4 @@ Repositorio de las prácticas de la asignatura de Ampliación de Ingeniería de 
 
 Maria Santiago Corral
 Daniel Ávila Fernández
+Álvaro López-Gil Navajas
